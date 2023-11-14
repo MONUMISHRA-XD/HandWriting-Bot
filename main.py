@@ -12,9 +12,9 @@ import requests
 
 bughunter0 = Client(
     "Handwriting",
-    bot_token=os.environ["BOT_TOKEN"],
-    api_id=int(os.environ["API_ID"]),
-    api_hash=os.environ["API_HASH"],
+    bot_token=os.environ["6481169308:AAHd-y0EC7pkRe00eERDWEvGruDp_7FmLvc"],
+    api_id=int(os.environ["28984679"]),
+    api_hash=os.environ["e91954567c037626c2db6c52d21ecde4"],
 )
 
 
